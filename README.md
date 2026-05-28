@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 ````markdown
+=======
+>>>>>>> 5dfc47ab2e5c6c3ed6854a7f2ef29bfb20bc7e10
 # Task Tracker CLI
 
 A simple command-line task tracker built with Python.

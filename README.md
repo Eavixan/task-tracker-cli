@@ -1,6 +1,3 @@
-You’re right — here is the **raw Markdown** version. Copy everything inside this box and paste it into `README.md` in VS Code.
-
-````markdown
 # Task Tracker CLI
 
 A simple command-line task tracker built with Python.

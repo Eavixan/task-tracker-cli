@@ -1,5 +1,3 @@
-You’re right — here is the **raw Markdown** version. Copy everything inside this box and paste it into `README.md` in VS Code.
-
 ````markdown
 # Task Tracker CLI
 
@@ -244,3 +242,9 @@ Some possible improvements for this project:
 - Add color-coded task statuses
 - Add unit tests
 - Package the app as a real CLI command
+
+## Project URL
+
+This project is based on the Task Tracker project from roadmap.sh:
+
+https://roadmap.sh/projects/task-tracker
